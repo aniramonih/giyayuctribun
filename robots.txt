@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://giyayuctribun.pages.dev/sitemap.xml
